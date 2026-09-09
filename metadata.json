@@ -1,0 +1,6 @@
+{
+  "name": "GST Tax Invoicing & Billing Engine",
+  "description": "Create, manage, and print GST-compliant tax invoices with automatic CGST/SGST/IGST detection, HSN/SAC management, GSTR-1 summaries, and commercial round-off.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
